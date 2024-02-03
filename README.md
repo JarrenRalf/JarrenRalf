@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Google Sheets that use Google Apps Script</b>
+  - [Inventory Transfer Sheets](https://github.com/JarrenRalf/PNT-Transfer-Sheets)
 
 
 <h2>📺 YouTube Video</h2>
