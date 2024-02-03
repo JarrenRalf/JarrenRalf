@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Jarren! <br/><a href="https://github.com/joshmadakor1">I'm an aspiring Data Scientist and Programmer</a>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>📺 YouTube Video</h2>
+
+- [A sample video of me tutoring](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JarrenRalf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**JarrenRalf/JarrenRalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
