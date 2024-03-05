@@ -4,6 +4,12 @@
 
 - <b>Google Sheets that use Google Apps Script</b>
   - [Inventory Transfer Sheets](https://github.com/JarrenRalf/PNT-Transfer-Sheets)
+  - [Adagio Import Sheet](https://github.com/JarrenRalf/PNT-Adagio-Import)
+  - [Website Point of Sale Integration](https://github.com/JarrenRalf/PNT-Packing-Slip)
+  - [Inflow Inventory Controller](https://github.com/JarrenRalf/PNT-Inflow-Controller)
+  - [Inventory Prediction Tool](https://github.com/JarrenRalf/PNT-Inventory-Prediction-Tool)
+  - [Purchase Order](https://github.com/JarrenRalf/PNT-Purchase-Order)
+  - [Booking Program](https://github.com/JarrenRalf/PNT-Booking-Program)
 
 
 <h2>📺 YouTube Video</h2>
