@@ -1,4 +1,4 @@
-alf<h1>Hi, I'm Jarren! <br/><a href="https://github.com/JarrenRalf">I'm an aspiring Data Scientist and Programmer</a>
+<h1>Hi, I'm Jarren! <br/><a href="https://github.com/JarrenRalf">I'm an aspiring Data Scientist and Programmer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
