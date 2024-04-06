@@ -11,6 +11,11 @@
   - [Purchase Order](https://github.com/JarrenRalf/PNT-Purchase-Order)
   - [Lodge Order Processor](https://github.com/JarrenRalf/PNT-Order-Processor)
 
+ - <b>School Projects from Kwantlen Polytecnic University</b>
+   - MATLAB
+     - [Numerical Solutions To Viscous Burgers Equation](KPU-Numerical-Solutions-To-Viscous-Burgers-Equation)
+   - Processing 3 (Java)
+     - [KPU Simulating Cops And Robbers Using A Random Walk](KPU-Simulating-Cops-And-Robbers-Using-A-Random-Walk)  
 
 <h2>📺 KPU Tutor Training Videos on YouTube</h2>
 
