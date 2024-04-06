@@ -9,23 +9,25 @@
   - [Inflow Inventory Controller](https://github.com/JarrenRalf/PNT-Inflow-Controller)
   - [Inventory Prediction Tool](https://github.com/JarrenRalf/PNT-Inventory-Prediction-Tool)
   - [Purchase Order](https://github.com/JarrenRalf/PNT-Purchase-Order)
-  - [Booking Program](https://github.com/JarrenRalf/PNT-Booking-Program)
+  - [Lodge Order Processor](https://github.com/JarrenRalf/PNT-Order-Processor)
 
 
-<h2>📺 YouTube Video</h2>
+<h2>📺 KPU Tutor Training Videos on YouTube</h2>
 
-- [A sample video of me tutoring](https://www.youtube.com/watch?v=a83ASGn_V_s)
+As part of my role as senior peer tutor at Kwantlen Polytechnic University, I helped run group seminars and create resourses to train up and coming tutors. An example of how I organized my time throughout a semester was published as an image in a book called UNIVERSITY 101: STUDY, STRATEGIZE AND SUCCEED. This was a reasourse for students to help them succeed in university. Additionally, I helped to create two peer tutor training videos shared below.
+
+- [An Example Semester Schedule](https://kpu.pressbooks.pub/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
+- [Tutor Training Video: A Tutoring Session](https://www.youtube.com/watch?v=HTnydDOBdBg)
+- [Tutoring Online Using Upswing](https://www.youtube.com/watch?v=GXP5ov96OKs)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JarrenRalf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/jarrenralf31415926
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
