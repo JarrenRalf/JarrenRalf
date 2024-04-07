@@ -13,9 +13,9 @@
 
  - <b>School Projects from Kwantlen Polytecnic University</b>
    - MATLAB
-     - [Numerical Solutions To Viscous Burgers Equation](KPU-Numerical-Solutions-To-Viscous-Burgers-Equation)
+     - [Numerical Solutions To Viscous Burgers Equation](https://github.com/JarrenRalf/KPU-Numerical-Solutions-To-Viscous-Burgers-Equation)
    - Processing 3 (Java)
-     - [KPU Simulating Cops And Robbers Using A Random Walk](KPU-Simulating-Cops-And-Robbers-Using-A-Random-Walk)  
+     - [KPU Simulating Cops And Robbers Using A Random Walk](https://github.com/JarrenRalf/KPU-Simulating-Cops-And-Robbers-Using-A-Random-Walk)  
 
 <h2>📺 KPU Tutor Training Videos on YouTube</h2>
 
