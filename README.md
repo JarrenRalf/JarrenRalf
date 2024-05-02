@@ -10,13 +10,14 @@
 
 
 - <b>Google Sheets that use Google Apps Script</b>
-  - [Inventory Transfer Sheets](https://github.com/JarrenRalf/PNT-Transfer-Sheets)
   - [Adagio Import Sheet](https://github.com/JarrenRalf/PNT-Adagio-Import)
+  - [Inventory Transfer Sheets](https://github.com/JarrenRalf/PNT-Transfer-Sheets)
   - [Website Point of Sale Integration](https://github.com/JarrenRalf/PNT-Packing-Slip)
-  - [Inventory Prediction Tool](https://github.com/JarrenRalf/PNT-Inventory-Prediction-Tool)
-  - [Purchase Order](https://github.com/JarrenRalf/PNT-Purchase-Order)
   - [Lodge Order Processor](https://github.com/JarrenRalf/PNT-Order-Processor)
   - [PNT Order Sheet](https://github.com/JarrenRalf/PNT-Order-Sheet)
+  - [Inventory Prediction Tool](https://github.com/JarrenRalf/PNT-Inventory-Prediction-Tool)
+  - [Purchase Order](https://github.com/JarrenRalf/PNT-Purchase-Order)
+  
 
 <h2>📺 KPU Tutor Training Videos on YouTube</h2>
 
