@@ -16,8 +16,7 @@
   - [Inventory Prediction Tool](https://github.com/JarrenRalf/PNT-Inventory-Prediction-Tool)
   - [Purchase Order](https://github.com/JarrenRalf/PNT-Purchase-Order)
   - [Lodge Order Processor](https://github.com/JarrenRalf/PNT-Order-Processor)
-
-
+  - [PNT Order Sheet](https://github.com/JarrenRalf/PNT-Order-Sheet)
 
 <h2>📺 KPU Tutor Training Videos on YouTube</h2>
 
@@ -30,7 +29,6 @@ As part of my role as senior peer tutor at Kwantlen Polytechnic University, I he
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JarrenRalf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [linkedin]: https://linkedin.com/in/jarrenralf31415926
 
