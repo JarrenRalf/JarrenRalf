@@ -15,10 +15,9 @@
   - [Website Point of Sale Integration](https://github.com/JarrenRalf/PNT-Packing-Slip)
   - [PNT Order Sheet](https://github.com/JarrenRalf/PNT-Order-Sheet)
   - [Lodge Order Processor](https://github.com/JarrenRalf/PNT-Order-Processor)
+  - [Lodge, Charter, and Guide Data](https://github.com/JarrenRalf/PNT-Lodge-And-Charter-Data)
   - [Inventory Prediction Tool](https://github.com/JarrenRalf/PNT-Inventory-Prediction-Tool)
-  - [Purchase Order](https://github.com/JarrenRalf/PNT-Purchase-Order)
   
-
 <h2>📺 KPU Tutor Training Videos on YouTube</h2>
 
 As part of my role as senior peer tutor at Kwantlen Polytechnic University, I helped run group seminars and create resourses to train up and coming tutors. An example of how I organized my time throughout a semester was published as an image in a book called UNIVERSITY 101: STUDY, STRATEGIZE AND SUCCEED. This was a reasourse for students to help them succeed in university. Additionally, I helped to create two peer tutor training videos shared below.
